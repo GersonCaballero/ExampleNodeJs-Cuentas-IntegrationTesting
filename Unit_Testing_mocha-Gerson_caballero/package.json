@@ -1,0 +1,19 @@
+{
+  "name": "unit_testing_mocha-gerson_caballero",
+  "version": "1.0.0",
+  "description": "Tarea de unitesting con mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index"
+  },
+  "author": "Gerson Caballero",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "express": "^4.17.1",
+    "mocha": "^6.2.0",
+    "mongodb": "^3.3.0"
+  }
+}
